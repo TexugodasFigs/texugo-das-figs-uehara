@@ -2,7 +2,7 @@
 // Os preços vigentes ficam centralizados no bloco currentPrices ao final.
 // A ordem abaixo foi pensada para separar visualmente packs de cores parecidas.
 window.STORE = {
-  campaign: "principal",
+  campaign: "uehara",
   socials: {
     email: "mailto:texugodasfigs@gmail.com",
     instagram: "https://www.instagram.com/texugodasfigs/",

@@ -1,8 +1,8 @@
 # Preparação para publicação
 
-Esta pasta é a versão principal do site, preparada para o endereço:
+Esta pasta é a versão Uehara do site, preparada para o endereço:
 
-`https://texugodasfigs.github.io/texugo-das-figs/`
+`https://texugodasfigs.github.io/texugo-das-figs-uehara/`
 
 ## Estado atual
 
@@ -15,4 +15,4 @@ Esta pasta é a versão principal do site, preparada para o endereço:
 
 ## Única pendência antes de publicar
 
-Substituir em `data.js` os 12 endereços do campo `payment` pelos links definitivos do Mercado Pago desta versão. Não publicar antes dessa troca.
+Substituir em `data.js` os 12 endereços do campo `payment` pelos links definitivos do Mercado Pago atribuídos ao Uehara. Não publicar antes dessa troca.
